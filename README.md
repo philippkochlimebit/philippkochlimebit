@@ -2,7 +2,8 @@
 
 My name is Philipp and I am Machine Learning Engineer
 
-🎓
+:office: Founder of Limebit GmbH (Data Science Agency) in Berlin
+🎓 Teaching Machine Learning at FOM University of Applied Sciences in Berlin
 
 🔭 I’m currently working on various Machine Learning Projects in the context of medical data
 
