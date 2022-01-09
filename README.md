@@ -1,6 +1,8 @@
 ### Hi there 👋
 
-My name is Philipp and I am Machine Learning Engineer at Limebit GmbH in Berlin
+My name is Philipp and I am Machine Learning Engineer
+
+🎓
 
 🔭 I’m currently working on various Machine Learning Projects in the context of medical data
 
