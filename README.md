@@ -8,8 +8,8 @@ My name is Philipp and I am a Machine Learning Engineer
 
 ## What I am passionate about
 
-🫁 I like to work with medical data and apply Machine Learning methodes
-💬 I am Co-Founder of @OpenDiscourse where we made the Germany Parliamentary Debates accessible for humans and machines
+🫁 I like to work with medical data and apply Machine Learning methodes  
+💬 I am Co-Founder of @OpenDiscourse where we made the Germany Parliamentary Debates accessible for humans and machines  
 
 <!--
 **philippkochlimebit/philippkochlimebit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
