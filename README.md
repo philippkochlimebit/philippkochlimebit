@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+My name is Philipp and I am Machine Learning Engineer at Limebit GmbH in Berlin
+
+🔭 I’m currently working on various Machine Learning Projects in the context of medical data
+
 <!--
 **philippkochlimebit/philippkochlimebit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
